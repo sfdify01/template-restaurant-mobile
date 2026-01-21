@@ -1,0 +1,408 @@
+[debug] [2025-12-16T12:27:21.213Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T12:27:21.218Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T12:27:21.225Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.225Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.233Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.233Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.233Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T12:27:21.233Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T12:27:21.234Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T12:27:21.234Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T12:27:21.235Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T12:27:21.236Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T12:27:21.237Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.238Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.240Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.240Z] Checked if tokens are valid: true, expires at: 1765891100974
+[debug] [2025-12-16T12:27:21.240Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T12:27:21.240Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T12:27:21.243Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T12:27:21.243Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T12:27:22.214Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T12:27:22.215Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T12:27:22.250Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T12:27:22.250Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T12:27:22.385Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T12:27:22.385Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T12:27:22.391Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T12:27:22.391Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T12:27:22.441Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T12:27:22.441Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T12:27:22.443Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T12:27:22.443Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T15:54:42.663Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T15:54:42.665Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T15:54:42.668Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.668Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.672Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.672Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.672Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T15:54:42.673Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T15:54:42.674Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T15:54:42.674Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T15:54:42.681Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T15:54:42.681Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T15:54:42.681Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.682Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.682Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.682Z] Checked if tokens are valid: true, expires at: 1765903765412
+[debug] [2025-12-16T15:54:42.682Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T15:54:42.682Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T15:54:42.683Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T15:54:42.683Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T15:54:43.649Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T15:54:43.649Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T15:54:43.650Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T15:54:43.650Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T15:54:43.759Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T15:54:43.759Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T15:54:43.767Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T15:54:43.767Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T15:54:43.819Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T15:54:43.819Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T15:54:43.820Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T15:54:43.820Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T20:38:18.277Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T20:38:18.279Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T20:38:18.283Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.284Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.287Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.288Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.288Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T20:38:18.288Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T20:38:18.289Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T20:38:18.289Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T20:38:18.297Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T20:38:18.297Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T20:38:18.297Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.297Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.298Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.298Z] Checked if tokens are valid: true, expires at: 1765919611814
+[debug] [2025-12-16T20:38:18.298Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-16T20:38:18.298Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T20:38:18.299Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2025-12-16T20:38:18.299Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2025-12-16T20:38:19.270Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T20:38:19.270Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T20:38:19.271Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2025-12-16T20:38:19.271Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2025-12-16T20:38:19.427Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T20:38:19.427Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T20:38:19.470Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-16T20:38:19.470Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-16T20:38:19.520Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T20:38:19.520Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-16T20:38:19.521Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-16T20:38:19.521Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-17T07:28:13.662Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-17T07:28:13.664Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-17T07:28:13.669Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.669Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.669Z] > refreshing access token with scopes: []
+[debug] [2025-12-17T07:28:13.670Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-17T07:28:13.670Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-17T07:28:13.675Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.675Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.676Z] > refreshing access token with scopes: []
+[debug] [2025-12-17T07:28:13.676Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-17T07:28:13.676Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-17T07:28:13.683Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-17T07:28:13.683Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-17T07:28:13.683Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.683Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.683Z] > refreshing access token with scopes: []
+[debug] [2025-12-17T07:28:13.683Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-17T07:28:13.683Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-17T07:28:13.685Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.685Z] Checked if tokens are valid: false, expires at: 1765919611814
+[debug] [2025-12-17T07:28:13.685Z] > refreshing access token with scopes: []
+[debug] [2025-12-17T07:28:13.685Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-17T07:28:13.685Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-17T07:28:13.837Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-17T07:28:13.837Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-17T07:28:13.838Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-17T07:28:13.838Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-17T07:28:13.842Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-17T07:28:13.842Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-17T07:28:13.843Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-17T07:28:13.843Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-17T07:28:20.850Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-17T07:28:20.850Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-17T07:28:20.850Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-17T07:28:20.850Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:45:38.890Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:45:38.892Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:45:38.893Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:45:38.893Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:45:38.893Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:45:38.894Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:45:38.894Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:45:38.902Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:45:38.902Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:45:38.902Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:45:38.902Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:45:38.902Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:45:38.902Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:45:38.902Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:45:39.035Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-24T17:45:39.035Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-24T17:45:39.055Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-24T17:46:54.168Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:46:54.170Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:46:54.170Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:46:54.170Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:46:54.170Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:46:54.171Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:46:54.171Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:46:54.177Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:46:54.177Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:46:54.177Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:46:54.178Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:46:54.178Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:46:54.178Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:46:54.178Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:46:54.329Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-24T17:46:54.329Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-24T17:47:05.479Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:47:05.481Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:47:05.481Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:05.481Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:05.481Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:47:05.482Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:47:05.483Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:47:05.484Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:47:05.484Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:47:05.484Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:05.484Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:05.484Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:47:05.484Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:47:05.484Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:47:05.649Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-24T17:47:20.107Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:47:20.112Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:47:20.112Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:20.113Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:20.113Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:47:20.114Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:47:20.114Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:47:20.121Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-24T17:47:20.121Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-24T17:47:20.122Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:20.122Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-24T17:47:20.122Z] > refreshing access token with scopes: []
+[debug] [2025-12-24T17:47:20.122Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-24T17:47:20.122Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-24T17:47:20.274Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-24T17:47:20.275Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[error] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2025-12-24T17:47:20.276Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2025-12-25T21:01:04.011Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-25T21:01:04.018Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-25T21:01:04.019Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-25T21:01:04.019Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-25T21:01:04.019Z] > refreshing access token with scopes: []
+[debug] [2025-12-25T21:01:04.020Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-25T21:01:04.020Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-25T21:01:04.029Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-25T21:01:04.029Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2025-12-25T21:01:04.029Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-25T21:01:04.029Z] Checked if tokens are valid: false, expires at: 1766538725491
+[debug] [2025-12-25T21:01:04.029Z] > refreshing access token with scopes: []
+[debug] [2025-12-25T21:01:04.029Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-25T21:01:04.030Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-25T21:01:04.190Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 400
+[debug] [2026-01-10T21:00:59.208Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T21:00:59.231Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T21:00:59.440Z] No OAuth tokens found
+[debug] [2026-01-10T21:00:59.440Z] No OAuth tokens found
+[debug] [2026-01-10T21:00:59.440Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T21:00:59.440Z] No OAuth tokens found
+[debug] [2026-01-10T21:00:59.440Z] No OAuth tokens found
+[debug] [2026-01-10T21:00:59.440Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-14T17:19:53.028Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-14T17:19:53.030Z] > authorizing via signed-in user (brky29cn@gmail.com)
+[debug] [2026-01-14T17:19:53.031Z] Checked if tokens are valid: false, expires at: 1768410342887
+[debug] [2026-01-14T17:19:53.031Z] Checked if tokens are valid: false, expires at: 1768410342887
+[debug] [2026-01-14T17:19:53.031Z] > refreshing access token with scopes: []
+[debug] [2026-01-14T17:19:53.032Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-14T17:19:53.032Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-14T17:19:53.034Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-14T17:19:53.035Z] > authorizing via signed-in user (brky29cn@gmail.com)
+[debug] [2026-01-14T17:19:53.035Z] Checked if tokens are valid: false, expires at: 1768410342887
+[debug] [2026-01-14T17:19:53.035Z] Checked if tokens are valid: false, expires at: 1768410342887
+[debug] [2026-01-14T17:19:53.035Z] > refreshing access token with scopes: []
+[debug] [2026-01-14T17:19:53.035Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-14T17:19:53.035Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-14T17:19:53.372Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-14T17:19:53.372Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-14T17:19:53.403Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-14T17:19:53.406Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-14T17:19:53.406Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-14T17:19:53.425Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-14T17:19:54.045Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 403
+[debug] [2026-01-20T17:53:17.631Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:53:17.633Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:53:17.633Z] Checked if tokens are valid: false, expires at: 1768931425477
+[debug] [2026-01-20T17:53:17.633Z] Checked if tokens are valid: false, expires at: 1768931425477
+[debug] [2026-01-20T17:53:17.634Z] > refreshing access token with scopes: []
+[debug] [2026-01-20T17:53:17.634Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-20T17:53:17.634Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-20T17:53:17.635Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:53:17.635Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:53:17.636Z] Checked if tokens are valid: false, expires at: 1768931425477
+[debug] [2026-01-20T17:53:17.636Z] Checked if tokens are valid: false, expires at: 1768931425477
+[debug] [2026-01-20T17:53:17.636Z] > refreshing access token with scopes: []
+[debug] [2026-01-20T17:53:17.636Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-20T17:53:17.636Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-20T17:53:17.783Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-20T17:53:17.783Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-20T17:53:17.814Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:53:17.816Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-20T17:53:17.817Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-20T17:53:17.834Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:53:18.157Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:53:18.158Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:53:18.161Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.161Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.166Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.166Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.166Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-20T17:53:18.166Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:53:18.167Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2026-01-20T17:53:18.167Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:53:18.203Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:53:18.203Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:53:18.204Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.204Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.205Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.205Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:18.205Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-20T17:53:18.205Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:53:18.206Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2026-01-20T17:53:18.206Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:53:19.147Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2026-01-20T17:53:19.147Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2026-01-20T17:53:19.195Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2026-01-20T17:53:19.195Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2026-01-20T17:53:19.292Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-20T17:53:19.292Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-20T17:53:19.368Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:53:19.369Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:53:19.370Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:19.370Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:53:19.370Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:53:19.445Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-20T17:53:19.445Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-20T17:53:19.902Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:53:19.902Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:53:19.903Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:53:19.903Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:59:54.655Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:59:54.658Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:59:54.659Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:54.659Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:54.659Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:59:54.668Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:59:54.668Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:59:54.668Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:54.668Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:54.668Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:59:55.458Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:59:55.458Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:59:55.460Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.460Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.467Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.467Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.467Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-20T17:59:55.467Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:59:55.468Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2026-01-20T17:59:55.468Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:59:55.529Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:59:55.529Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:59:55.530Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.530Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.531Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.532Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:55.532Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [none]
+[debug] [2026-01-20T17:59:55.532Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:59:55.533Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [none]
+[debug] [2026-01-20T17:59:55.533Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com x-goog-quota-user=projects/cost-refund-9x8s
+[debug] [2026-01-20T17:59:56.462Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2026-01-20T17:59:56.462Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2026-01-20T17:59:56.477Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com 403
+[debug] [2026-01-20T17:59:56.477Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebaseio.com [omitted]
+[debug] [2026-01-20T17:59:56.610Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-20T17:59:56.610Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-20T17:59:56.666Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com 200
+[debug] [2026-01-20T17:59:56.667Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/cost-refund-9x8s/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2026-01-20T17:59:56.733Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:59:56.733Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-20T17:59:56.733Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:56.733Z] Checked if tokens are valid: true, expires at: 1768935196817
+[debug] [2026-01-20T17:59:56.733Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-20T17:59:57.530Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 200
+[debug] [2026-01-20T17:59:57.530Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo {"name":"projects/cost-refund-9x8s/billingInfo","projectId":"cost-refund-9x8s","billingAccountName":"billingAccounts/01A9E5-92D606-8509EB","billingEnabled":true}
+[debug] [2026-01-20T17:59:57.532Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-20T17:59:57.532Z] > authorizing via signed-in user (partner@sfdify.com)
+[debug] [2026-01-21T10:53:26.510Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-21T10:53:26.512Z] > authorizing via signed-in user (brky29cn@gmail.com)
+[debug] [2026-01-21T10:53:26.512Z] Checked if tokens are valid: false, expires at: 1768993682445
+[debug] [2026-01-21T10:53:26.512Z] Checked if tokens are valid: false, expires at: 1768993682445
+[debug] [2026-01-21T10:53:26.512Z] > refreshing access token with scopes: []
+[debug] [2026-01-21T10:53:26.513Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-21T10:53:26.513Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-21T10:53:26.514Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-21T10:53:26.515Z] > authorizing via signed-in user (brky29cn@gmail.com)
+[debug] [2026-01-21T10:53:26.515Z] Checked if tokens are valid: false, expires at: 1768993682445
+[debug] [2026-01-21T10:53:26.515Z] Checked if tokens are valid: false, expires at: 1768993682445
+[debug] [2026-01-21T10:53:26.515Z] > refreshing access token with scopes: []
+[debug] [2026-01-21T10:53:26.515Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2026-01-21T10:53:26.515Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-21T10:53:26.661Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-21T10:53:26.662Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-21T10:53:26.682Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-21T10:53:26.684Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2026-01-21T10:53:26.684Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2026-01-21T10:53:26.697Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo [none]
+[debug] [2026-01-21T10:53:27.045Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/cost-refund-9x8s/billingInfo 403

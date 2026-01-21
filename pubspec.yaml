@@ -1,0 +1,107 @@
+name: shahirizada
+description: "Shahirizada Fresh Market - Mobile App for online meat market ordering"
+publish_to: 'none'
+version: 3.2.3+53
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+  lucide_icons_flutter: ^1.1.5
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  google_fonts: ^6.2.1
+  toastification: ^2.3.0
+  motor: ^1.1.0
+  smooth_sheets: ^0.10.2
+
+  # State Management - Riverpod (latest with code generation)
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+
+  # Routing - Auto Route (latest)
+  auto_route: ^9.2.2
+
+  # Backend
+  supabase_flutter: ^2.8.3
+
+  # Payments
+  flutter_stripe: ^11.2.0
+
+  # Storage & Utilities
+  shared_preferences: ^2.3.3
+  flutter_secure_storage: ^9.2.2
+
+  # Location & Permissions
+  geolocator: ^14.0.2
+  permission_handler: ^11.3.1
+  geocoding: ^3.0.0
+
+  # Google Places Autocomplete
+  place_pickarte: ^1.0.2
+  # Google Maps
+  google_maps_flutter: ^2.10.0
+
+  # Networking
+  dio: ^5.7.0
+
+  # Environment
+  flutter_dotenv: ^5.2.1
+
+  # Utilities
+  intl: ^0.20.1
+  intl_phone_field: ^3.2.0
+  form_builder_validators: ^11.0.0
+  url_launcher: ^6.3.1
+  equatable: ^2.0.7
+  uuid: ^4.5.1
+
+  # Data Models
+  dart_mappable: ^4.2.0
+  terminate_restart: ^1.0.11
+
+  # Push Notifications & Live Activities
+  onesignal_flutter: ^5.2.9
+  # Note: live_activities package removed - using OneSignal's native Live Activity support instead
+
+  # App Info
+  package_info_plus: ^8.1.3
+  map_launcher: ^4.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+  # Code Generation
+  build_runner: ^2.4.13
+  auto_route_generator: ^9.0.0
+  riverpod_generator: ^2.6.2
+  dart_mappable_builder: ^4.2.0
+  icons_launcher: ^3.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Used by flutter_dotenv in debug mode (loaded via Flutter asset bundle).
+    # - .env
+    - assets/images/
+    - assets/icons/
+    - assets/app_icon.png
+
+icons_launcher:
+  image_path: "assets/app_icon.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
